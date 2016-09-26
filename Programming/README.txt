@@ -1,2 +1,2 @@
 Operating Systems
-Programming Assignments
+Assignment 1: Shared Memory
