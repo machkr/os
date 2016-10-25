@@ -1,2 +1,2 @@
-#Operating Systems
-###*Assignment 2: Semaphores*
+#**Operating Systems**
+###Assignment 2: Semaphores
