@@ -5,7 +5,7 @@ To compile, use either of the following commands:
 ```
     make
 ```
-```c
+```
     gcc ass1.c ass1
 ```
 
