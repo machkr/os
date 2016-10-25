@@ -2,10 +2,10 @@
 ###Assignment 1: Shared Memory
 
 To compile, use either of the following commands:
-```txt
+```
     make
 ```
-```
+```c
     gcc ass1.c ass1
 ```
 
